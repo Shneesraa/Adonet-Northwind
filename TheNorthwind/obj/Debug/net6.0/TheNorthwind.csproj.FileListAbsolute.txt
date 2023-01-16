@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.deps.json
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfo.cs
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\refint\TheNorthwind.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\ref\TheNorthwind.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.deps.json
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\refint\TheNorthwind.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\ref\TheNorthwind.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.deps.json
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\bin\Debug\net6.0\TheNorthwind.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.AssemblyReference.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.GeneratedMSBuildEditorConfig.editorconfig
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfoInputs.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.AssemblyInfo.cs
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.csproj.CoreCompileInputs.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\refint\TheNorthwind.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\TheNorthwind.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind\obj\Debug\net6.0\ref\TheNorthwind.dll

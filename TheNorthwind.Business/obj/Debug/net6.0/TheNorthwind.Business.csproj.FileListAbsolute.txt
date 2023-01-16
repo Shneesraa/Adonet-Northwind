@@ -1,0 +1,51 @@
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.deps.json
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfo.cs
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CopyComplete
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\refint\TheNorthwind.Business.dll
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.pdb
+C:\Users\user\Desktop\TOPLANTI TUTANAKLARI\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\ref\TheNorthwind.Business.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.deps.json
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.AssemblyReference.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfoInputs.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfo.cs
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CopyComplete
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\refint\TheNorthwind.Business.dll
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.pdb
+C:\Users\HAFTASONU\Desktop\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\ref\TheNorthwind.Business.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.deps.json
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.Business.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.DataAccess.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\bin\Debug\net6.0\TheNorthwind.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.AssemblyReference.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.GeneratedMSBuildEditorConfig.editorconfig
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfoInputs.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.AssemblyInfo.cs
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CoreCompileInputs.cache
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.csproj.CopyComplete
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\refint\TheNorthwind.Business.dll
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\TheNorthwind.Business.pdb
+E:\ibo\BB 2208-02 - 221126 - AdoNet Northwind\TheNorthwind.Business\obj\Debug\net6.0\ref\TheNorthwind.Business.dll

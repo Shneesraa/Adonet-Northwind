@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Categories\CategoryCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Categories\CategoryListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Categories\CategoryUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\CustomerCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\CustomerListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\CustomerListForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Customers\CustomerUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products\ProductCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products\ProductListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Products\ProductUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers\SupplierCreateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers\SupplierListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Suppliers\SupplierUpdateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
